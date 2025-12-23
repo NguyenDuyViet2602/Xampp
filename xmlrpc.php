@@ -85,6 +85,8 @@ $wp_xmlrpc_server       = new $wp_xmlrpc_server_class();
 
 // Fire off the request.
 $wp_xmlrpc_server->serve_request();
+// sdfsdfs
+
 
 exit;
 
