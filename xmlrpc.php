@@ -75,6 +75,9 @@ require_once ABSPATH . WPINC . '/class-wp-xmlrpc-server.php';
  */
 $post_default_title = '';
 
+
+
+
 /**
  * Filters the class used for handling XML-RPC requests.
  *
